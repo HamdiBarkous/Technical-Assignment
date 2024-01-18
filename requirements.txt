@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests_html
+matplotlib
+numpy
+seaborn
+sqlite3
+httpx
